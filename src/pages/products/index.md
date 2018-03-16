@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Our playground
 image: /img/sammich-ride.jpg
 heading: What we offer
 description: >-
